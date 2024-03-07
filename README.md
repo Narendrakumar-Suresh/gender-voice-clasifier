@@ -2,8 +2,8 @@
 This project implements a gender classification system based on voice analysis using a dataset in CSV format. The model achieves an accuracy score of 97%.
 
 **Libraries Used:**
-scikit-learn (https://scikit-learn.org/)
-pandas (https://pandas.pydata.org/)
+scikit-learn (https://scikit-learn.org/),
+pandas (https://pandas.pydata.org/),
 joblib (https://joblib.readthedocs.io/)
 
 **Data Description:**
@@ -23,7 +23,7 @@ maxfun: Maximum fundamental frequency (pitch) measured (kHz).
 dfrange: Range of the fundamental frequency (kHz).
 These attributes likely correspond to Mel-frequency cepstral coefficients (MFCCs) and pitch information extracted from the voice samples. They capture various statistical properties of the frequency domain, which can be informative for differentiating male and female voices.
 
-_**Project Overview**_
+#_**Project Overview**_
 
 **Data Preprocessing:**
 Load the voice data from the CSV file using pandas.
