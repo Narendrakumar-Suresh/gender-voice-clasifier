@@ -1,7 +1,7 @@
 # gender-voice-clasifier
 This project implements a gender classification system based on voice analysis using a dataset in CSV format. The model achieves an accuracy score of 97%.
 
-**Libraries Used:**
+<h2>Libraries Used:</h2>h2>
 scikit-learn (https://scikit-learn.org/),
 pandas (https://pandas.pydata.org/),
 joblib (https://joblib.readthedocs.io/)
