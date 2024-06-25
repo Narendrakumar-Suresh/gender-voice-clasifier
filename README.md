@@ -6,7 +6,7 @@ scikit-learn (https://scikit-learn.org/),
 pandas (https://pandas.pydata.org/),
 joblib (https://joblib.readthedocs.io/)
 
-**Data Description:**
+<h1>**Data Description:**</h1>
 The project utilizes a CSV file containing voice data with the following attributes:
 meanfreq: Mean frequency of the voice signal (kHz).
 sd: Standard deviation of the frequency (kHz).
